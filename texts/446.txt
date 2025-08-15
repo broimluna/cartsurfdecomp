@@ -1,0 +1,5 @@
+You have infinite time to try and get 
+--- RECORDSEPARATOR ---
+as many points as possible, but be 
+--- RECORDSEPARATOR ---
+careful as you only have one life.
