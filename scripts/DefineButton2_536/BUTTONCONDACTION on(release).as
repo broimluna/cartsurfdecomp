@@ -1,0 +1,4 @@
+on(release){
+   quitGame();
+   gameOver();
+}
